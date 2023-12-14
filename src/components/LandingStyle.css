@@ -1,0 +1,21 @@
+.gallery:hover{
+background-color: pink;
+
+}
+.images{
+    border-radius: 0.5rem;
+    margin-top: 15px;
+    
+   
+}
+.home{
+    background-color:#F0EEF1;
+}
+.card{
+   background-color:#D9CCD8;
+    border: none;
+    color: #6F4E6A;
+}
+.print{
+    margin-left: 10px;
+}
